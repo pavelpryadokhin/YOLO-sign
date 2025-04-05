@@ -8,4 +8,3 @@ ___
 ### best_yolo11s_aug_10_epochs.pt
 Веса лучшей модели, обученной с использованием метода аугментации, после 10 циклов обучения.
 
-<video src='https://github.com/pavelpryadokhin/YOLO-sign/blob/main/Тест.mp4' width=180/>
