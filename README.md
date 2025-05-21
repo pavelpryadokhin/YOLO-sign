@@ -2,7 +2,7 @@
 Использованы различные методы аугментации данных, которые позволили повысить точность распознавания дорожных знаков даже в условиях плохой видимости.
 
 
-[Код выполнения colab](https://colab.research.google.com/drive/1YPlaYZTCCnJT0sNtTcsHYQkfnOYm7rAx?usp=sharing)
+[Код в colab](https://colab.research.google.com/drive/1YPlaYZTCCnJT0sNtTcsHYQkfnOYm7rAx?usp=sharing)
 ___
 
 ### best_yolo11s_aug_10_epochs.pt
